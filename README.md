@@ -8,9 +8,9 @@
 4) The __About Us__ page lists out the team of vecta corp.
 5) The __Pricing__ page lists out the Rates of vecta corp.
 
-<img src="images/1.png" alt="">
-<img src="images/2.png" alt="">
-<img src="images/3.png" alt="">
-<img src="images/4.png" alt="">
-<img src="images/5.png" alt="">
-<img src="images/6.png" alt="">
+<img src="screenshots/1.png" alt="">
+<img src="screenshots/2.png" alt="">
+<img src="screenshots/3.png" alt="">
+<img src="screenshots/4.png" alt="">
+<img src="screenshots/5.png" alt="">
+<img src="screenshots/6.png" alt="">
